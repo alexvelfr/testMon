@@ -1,0 +1,5 @@
+app: 
+  default_duration: "10s"
+  port: "localhost:8080"
+  db:
+    name: "gorm.db"
